@@ -1,18 +1,15 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <id>com.github.zorbn.gourdjetbrains</id>
-    <name>Gourd-jetbrains</name>
+    <name>Gourd</name>
     <vendor>zorbn</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <applicationService serviceImplementation="com.github.zorbn.gourdjetbrains.services.MyApplicationService"/>
-        <projectService serviceImplementation="com.github.zorbn.gourdjetbrains.services.MyProjectService"/>
+        <themeProvider id="com.github.zorbn.gourdjetbrains" path="/theme/gourd.theme.json"/>
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.zorbn.gourdjetbrains.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
     </applicationListeners>
 </idea-plugin>
