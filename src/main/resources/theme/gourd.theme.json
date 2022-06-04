@@ -103,7 +103,9 @@
       },
       "HeaderTab": {
         "selectedInactiveBackground": "bg",
-        "hoverInactiveBackground": "bg"
+        "hoverInactiveBackground": "bg",
+        "underlineColor": "purple1",
+        "inactiveUnderlineColor": "blue1"
       }
     },
     "Table": {
