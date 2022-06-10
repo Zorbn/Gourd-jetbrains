@@ -62,6 +62,12 @@
     <option name="QUESTION_HINT" value="a89984" />
   </colors>
   <attributes>
+    <option name="SUGGESTION">
+      <value>
+        <option name="EFFECT_COLOR" value="a89984" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="83a598" />
