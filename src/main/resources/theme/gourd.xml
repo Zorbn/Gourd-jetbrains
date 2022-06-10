@@ -1,4 +1,4 @@
-<scheme name="Gourd" version="142">
+<scheme name="Gourd" version="142" parent_scheme="Dracula">
   <colors>
     <option name="ADDED_LINES_COLOR" value="79740e" />
     <option name="ANNOTATIONS_COLOR" value="928374" />
@@ -58,6 +58,7 @@
     <option name="ScrollBar.thumbColor" value="50494588" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
+    <option name="INFORMATION_HINT" value="a89984" />
   </colors>
   <attributes>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
@@ -97,7 +98,7 @@
     </option>
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
-        <option name="ERROR_STRIPE_COLOR" value="b8bb26" />
+        <option name="ERROR_STRIPE_COLOR" value="cc241d" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -155,7 +156,7 @@
     </option>
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="cc241d" />
       </value>
     </option>
     <option name="CONSOLE_GRAY_OUTPUT">
@@ -535,7 +536,7 @@
     <option name="ERRORS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="d3869b" />
-        <option name="ERROR_STRIPE_COLOR" value="d3869b" />
+        <option name="ERROR_STRIPE_COLOR" value="cc241d" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -669,7 +670,7 @@
     </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="d3869b" />
+        <option name="FOREGROUND" value="cc241d" />
       </value>
     </option>
     <option name="LOG_EXPIRED_ENTRY">
@@ -923,7 +924,7 @@
       <value>
         <option name="FOREGROUND" value="ebdbb2" />
         <option name="BACKGROUND" value="5a590f" />
-        <option name="ERROR_STRIPE_COLOR" value="5a590f" />
+        <option name="ERROR_STRIPE_COLOR" value="b8bb26" />
       </value>
     </option>
     <option name="SPY-JS.EXCEPTION">
@@ -986,14 +987,14 @@
       <value>
         <option name="FOREGROUND" value="a89984" />
         <option name="BACKGROUND" value="5a590f" />
-        <option name="ERROR_STRIPE_COLOR" value="5a590f" />
+        <option name="ERROR_STRIPE_COLOR" value="b8bb26" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b8bb26" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+        <option name="ERROR_STRIPE_COLOR" value="a89984" />
       </value>
     </option>
     <option name="TS.MODULE_NAME">
