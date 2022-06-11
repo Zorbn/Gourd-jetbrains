@@ -24,11 +24,11 @@
     <option name="FOLDED_TEXT_BORDER_COLOR" value="665c54" />
     <option name="GUTTER_BACKGROUND" value="2d2a2e" />
     <option name="INDENT_GUIDE" value="665c54" />
-    <option name="INFORMATION_HINT" value="a89984" />
     <option name="LINE_NUMBERS_COLOR" value="665c54" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ebdbb2" />
     <option name="METHOD_SEPARATORS_COLOR" value="2a2a2a" />
     <option name="MODIFIED_LINES_COLOR" value="415f69" />
+    <option name="QUESTION_HINT" value="ebdbb2" />
     <option name="RIGHT_MARGIN_COLOR" value="665c54" />
     <option name="SELECTED_INDENT_GUIDE" value="a89984" />
     <option name="SELECTED_TEARLINE_COLOR" value="8ec07c" />
@@ -59,15 +59,10 @@
     <option name="ScrollBar.thumbColor" value="50494588" />
     <option name="ScrollBar.trackColor" value="" />
     <option name="TEARLINE_COLOR" value="665c54" />
-    <option name="QUESTION_HINT" value="a89984" />
+    <option name="TOOLTIP" value="221f22" />
+    <option name="INFORMATION_HINT" value="221f22" />
   </colors>
   <attributes>
-    <option name="SUGGESTION">
-      <value>
-        <option name="EFFECT_COLOR" value="a89984" />
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="83a598" />
@@ -1082,12 +1077,6 @@
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="83a598" />
-      </value>
-    </option>
-    <option name="GRAZIE_STYLE_SUGGESTION">
-      <value>
-        <option name="EFFECT_COLOR" value="a89984" />
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
   </attributes>
